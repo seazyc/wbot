@@ -1,0 +1,18 @@
+{
+    "botName": "SMH BOT",
+    "owner": [
+        "6282274241198@s.whatsapp.net"
+    ],
+    "openWeather": "OpenWeather_APIkey",
+    "igCookie": "Instagram_Cookie",
+    "session": "session",
+    "user_db": "users-db.json",
+    "chat_store": "baileys-store.json",
+    "timezone": "Asia/Jakarta",
+    "footer": "STEED UNIX • AldiiXF",
+    "tier": {
+        "drakath": 200,
+        "nulgath": 500,
+        "artix": 999
+    }
+}
